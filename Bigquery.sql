@@ -50,4 +50,5 @@ FROM `bigquery-public-data.chicago_crime.crime` 
 GROUP BY primary_type, description
 order by prim_count ASC
 
--- SQL
+-- SQL 
+-- description
